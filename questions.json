@@ -1,8 +1,74 @@
 [
   {
-    "q": "Sample question",
-    "choices": ["A", "B", "C", "D"],
-    "answer": 0,
-    "explain": "Sample explanation"
+    "q": "What does the symbolic designation \"CJP\" indicate on a welding symbol?",
+    "choices": ["Critical Joint Preparation", "Concave Joint Profile", "Carbon Joint Property", "Complete Joint Penetration"],
+    "answer": 3,
+    "explain": "The CJP symbol indicates Complete Joint Penetration regardless of type of weld or joint geometry."
+  },
+  {
+    "q": "When applying nondestructive examination (NDE) symbols, what designations from welding symbols retain their same location significance?",
+    "choices": ["Melt-Through and Convexity", "Root Opening and Groove Angle", "Arrow side and other side designations", "Pitch and Length of Segments"],
+    "answer": 2,
+    "explain": "NDE symbols retain the same basic elements and governing rules as welding symbols, so arrow side and other side designations keep their location significance."
+  },
+  {
+    "q": "The objective of performance qualification for an individual is to determine the:",
+    "choices": ["Maximum tensile strength of the welded joint.", "Susceptibility of the joint to lamellar tearing.", "Ability of an individual to deposit sound weld metal with a previously qualified welding procedure.", "Minimum level of heat input required for the process."],
+    "answer": 2,
+    "explain": "Performance qualification determines the ability of an individual to deposit sound weld metal using a previously qualified welding procedure."
+  },
+  {
+    "q": "Plain carbon steels containing up to 1.7% carbon (C) are classified as what type of steel?",
+    "choices": ["Low carbon types", "Medium carbon steels", "High carbon steels", "Ferritic steels"],
+    "answer": 2,
+    "explain": "Among plain carbon steels, high carbon steels can contain up to about 1.7% carbon."
+  },
+  {
+    "q": "What effect does the alloying element Chromium have on carbon steel?",
+    "choices": ["Promotes fine grain structure.", "Increases strength and responsiveness to heat treatment, but lowers toughness.", "Increases resistance to corrosion; improves hardness and toughness, and improves the response to heat treatment.", "Significantly lowers the lower transformation temperature."],
+    "answer": 2,
+    "explain": "Chromium increases corrosion resistance, improves hardness and toughness, and enhances response to heat treatment."
+  },
+  {
+    "q": "What is the area called where metallurgical changes occur in the base metal adjacent to the weld bead that did not melt during the welding process?",
+    "choices": ["The Fusion Zone (FZ)", "The Heat-Affected Zone (HAZ)", "The Weld Metal Zone (WMZ)", "The Transformation Zone (TZ)"],
+    "answer": 1,
+    "explain": "The region of base metal adjacent to the weld that experienced metallurgical changes but did not melt is called the Heat-Affected Zone (HAZ)."
+  },
+  {
+    "q": "Which of the following is NOT one of the four independent conditions required for the formation of delayed cracks in the HAZ?",
+    "choices": ["The presence of hydrogen", "A susceptible microstructure", "The presence of stress", "High interpass temperature"],
+    "answer": 3,
+    "explain": "The four conditions are hydrogen presence, susceptible microstructure, presence of stress, and low temperature. High interpass temperature tends to prevent delayed cracking."
+  },
+  {
+    "q": "Lamellar tearing in rolled steel plate is primarily caused by through-thickness stress and is characterized by what specific visual appearance?",
+    "choices": ["Spherical islands of porosity", "A characteristic stepped appearance", "A linear depression below the base metal surface", "Star-shaped cracks in the weld crater"],
+    "answer": 1,
+    "explain": "Lamellar tearing exhibits a characteristic stepped appearance and occurs under high through-thickness stress in rolled plate."
+  },
+  {
+    "q": "The magnetic phase in austenitic stainless steel weld deposits that helps prevent centerline cracking and fissuring is called:",
+    "choices": ["Martensite", "Pearlite", "Delta ferrite", "Cementite"],
+    "answer": 2,
+    "explain": "A small fraction of magnetic delta ferrite in an otherwise austenitic weld deposit helps prevent centerline cracking and fissuring."
+  },
+  {
+    "q": "The term often used to denote the amount of offset or mismatch across a butt joint between members of equal thickness is:",
+    "choices": ["Distortion", "Misalignment", "Overlap", "Convexity"],
+    "answer": 1,
+    "explain": "Misalignment denotes the offset or mismatch across a butt joint between members of equal thickness."
+  },
+  {
+    "q": "Which of the following defines Incomplete Fusion?",
+    "choices": ["A groove weld condition where weld metal does not extend through the joint thickness.", "A depression on the weld face or root surface below the adjacent surface of the base metal.", "A discontinuity in which fusion did not occur between the weld metal and the fusion faces or adjoining weld beads.", "Gas entrapped in solidifying weld metal."],
+    "answer": 2,
+    "explain": "Incomplete fusion is a discontinuity where fusion did not occur between the weld metal and the fusion faces or adjoining weld beads."
+  },
+  {
+    "q": "Cracks that occur in a metal during solidification or at elevated temperatures are defined as:",
+    "choices": ["Cold cracks", "Underbead cracks", "Hot cracks", "Delayed cracks"],
+    "answer": 2,
+    "explain": "Cracks occurring during solidification or at elevated temperatures are called hot cracks; cold cracks occur at or near ambient temperature."
   }
 ]
